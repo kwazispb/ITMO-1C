@@ -25,25 +25,30 @@
 		<Metadata name="Catalog.Контрагенты" id="a9d81e5a-ae8e-43e5-ab22-2a72ae009e59" configVersion="27e22c4c99c3374fb46d0fe587f195f100000000">
 			<Metadata name="Catalog.Контрагенты.Attribute.ИНН" id="fc7bc625-b2c8-44ec-9ba1-80532a5cb159"/>
 		</Metadata>
-		<Metadata name="Catalog.Номенклатура" id="82051426-57cf-456a-bef1-7aea4e26f13a" configVersion="7042d71c527d534ba4820431646f271800000000">
+		<Metadata name="Catalog.Номенклатура" id="82051426-57cf-456a-bef1-7aea4e26f13a" configVersion="a5b2ef606e0ba74896300ca747078a6e00000000">
 			<Metadata name="Catalog.Номенклатура.Attribute.ОписаниеТовара" id="0b62925c-f34f-41bd-9462-40e61ded8e4a"/>
 			<Metadata name="Catalog.Номенклатура.Attribute.ОсновнойПоставщик" id="169980f9-6a0b-4e84-ab34-0d65e20ddf86"/>
 			<Metadata name="Catalog.Номенклатура.Attribute.Изображение" id="37d8f0b5-b065-4988-9eaa-96f73db63891"/>
 			<Metadata name="Catalog.Номенклатура.Attribute.ЦенаТовара" id="7607d651-c6e5-4a38-8522-dacde008b08a"/>
 			<Metadata name="Catalog.Номенклатура.Attribute.ТипТовара" id="82b528e2-5a0b-4e29-acc9-8f3c49be1d55"/>
 		</Metadata>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента" id="a942e1a2-c561-4c4f-bcc5-78ee41b5a283" configVersion="74aa5f8a14b46e429d719027783b0c7900000000"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента.Form" id="a942e1a2-c561-4c4f-bcc5-78ee41b5a283.0" configVersion="72ba941c5a6dc649bc5ef276068379b400000000"/>
 		<Metadata name="Catalog.Пользователи" id="e12f03eb-18b1-4d6d-af1e-4b99a77eb178" configVersion="9a36353a9ac95d4f8eec1ff1d77d304000000000">
 			<Metadata name="Catalog.Пользователи.Attribute.УникальныйИдентификатор" id="8c5056ea-9a78-4aa2-bed3-553186570853"/>
 		</Metadata>
 		<Metadata name="Catalog.Пользователи.ObjectModule" id="e12f03eb-18b1-4d6d-af1e-4b99a77eb178.0" configVersion="2594eaf6d54f8d4295f3752d33a864e500000000"/>
 		<Metadata name="Catalog.Склады" id="86fbc137-9b70-4ae0-b98e-ea64ca26070e" configVersion="136d5ce8efbbb846a762aac44d72964b00000000"/>
+		<Metadata name="Catalog.Файлы" id="798d7b30-519c-4c5c-920a-9559f8563d58" configVersion="dec99b2d434a33479c3c26c155dd206000000000">
+			<Metadata name="Catalog.Файлы.Attribute.Файл" id="e58018d0-c9ca-483a-b2b7-7dbb16003bae"/>
+		</Metadata>
 		<Metadata name="CommonPicture.ЛоготипЗакупок" id="b5428d0a-78ce-4d64-bb53-e6a06e3a0b31" configVersion="bc27ce040a395d41b5c9a0b6c503df5800000000"/>
 		<Metadata name="CommonPicture.ЛоготипЗакупок.Picture" id="b5428d0a-78ce-4d64-bb53-e6a06e3a0b31.0" configVersion="4a5c819f22f3094083f6fa9362d0841900000000"/>
 		<Metadata name="CommonPicture.ЛоготипНСИ" id="f028e48c-68a4-48cc-b96c-23322ce264fb" configVersion="c632c2251358964d860dfdd61dd10a8b00000000"/>
 		<Metadata name="CommonPicture.ЛоготипНСИ.Picture" id="f028e48c-68a4-48cc-b96c-23322ce264fb.0" configVersion="26ee8cfe700d654e847950efaae5cfa700000000"/>
 		<Metadata name="CommonPicture.ЛоготипПродаж" id="eb2d2c83-e5f2-43b8-9b62-61801f918c30" configVersion="dc0933261a77884b8346e31e33c02ec000000000"/>
 		<Metadata name="CommonPicture.ЛоготипПродаж.Picture" id="eb2d2c83-e5f2-43b8-9b62-61801f918c30.0" configVersion="9b9128f35ef88141aaad3f6ef023664f00000000"/>
-		<Metadata name="Configuration.МагазинКанцтоваров" id="9efe6116-6769-47f7-9ed9-2097d1d4029e" configVersion="d8d943baf96d3f43840b04a3bbd5e1bd00000000"/>
+		<Metadata name="Configuration.МагазинКанцтоваров" id="9efe6116-6769-47f7-9ed9-2097d1d4029e" configVersion="f51d99d09c1f0046b3664529ba27693500000000"/>
 		<Metadata name="Configuration.МагазинКанцтоваров.ExternalConnectionModule" id="00673b08-b6a8-4245-9c80-770729dd8ec1.5" configVersion="3ce3069ea7ad8a4790e80ca5231d4eec00000000"/>
 		<Metadata name="Configuration.МагазинКанцтоваров.HomePageWorkArea" id="00673b08-b6a8-4245-9c80-770729dd8ec1.8" configVersion="d07bdb91e5b60a46abdb7bfc185dcec900000000"/>
 		<Metadata name="Configuration.МагазинКанцтоваров.ManagedApplicationModule" id="00673b08-b6a8-4245-9c80-770729dd8ec1.6" configVersion="90891ee6f799af46a34649460496bee500000000"/>
@@ -143,13 +148,13 @@
 		<Metadata name="Report.ПродажиТоваровПоДокументам" id="563e6904-29f7-4ca4-969a-0793d64fc5a9" configVersion="575e160a32770646a0e5168bd521b41f00000000"/>
 		<Metadata name="Report.ПродажиТоваровПоДокументам.Template.ОсновнаяСхемаКомпоновкиДанных" id="601c607b-ee32-4b8a-9c52-aebd925fd00e" configVersion="918db87da0d14c42b53dfb9e746f33f200000000"/>
 		<Metadata name="Report.ПродажиТоваровПоДокументам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="601c607b-ee32-4b8a-9c52-aebd925fd00e.0" configVersion="85ff850a0d4d0345b96236fd36e840b700000000"/>
-		<Metadata name="Role.Администратор" id="60489cff-4f63-49e4-8535-e2d434e95279" configVersion="6437e16a9edacf42819779012af7a4d400000000"/>
-		<Metadata name="Role.Администратор.Rights" id="60489cff-4f63-49e4-8535-e2d434e95279.0" configVersion="810b08a2c94071478e849b6e46c8297700000000"/>
+		<Metadata name="Role.Администратор" id="60489cff-4f63-49e4-8535-e2d434e95279" configVersion="d2cc5567cbd1264f8b3378b39f029d6b00000000"/>
+		<Metadata name="Role.Администратор.Rights" id="60489cff-4f63-49e4-8535-e2d434e95279.0" configVersion="7c75d1dfd684e149b66b4694886c5aba00000000"/>
 		<Metadata name="Role.БазовыеПрава" id="731e81bb-2570-4d9e-aa33-e9dc65ab8565" configVersion="f6272b28e7ee254ab4ac3d933bc252bf00000000"/>
 		<Metadata name="Role.БазовыеПрава.Rights" id="731e81bb-2570-4d9e-aa33-e9dc65ab8565.0" configVersion="8e1d3fd4d331504ebf0e89f9d6331e4500000000"/>
 		<Metadata name="SessionParameter.ТекущийПользователь" id="600a36c7-e516-454d-90d8-d1a5818ac6ee" configVersion="6989224fac499b45b45ab7d37e557d3f00000000"/>
 		<Metadata name="Subsystem.Закупки" id="d5f5a23e-8c25-460e-8f46-3661bf6023bb" configVersion="968fd03a3124944f878cdc928f1a89c700000000"/>
-		<Metadata name="Subsystem.НСИ" id="f3e1c05b-7c69-49cc-b685-65732a06a1ea" configVersion="14708e7026503643a27c444cd117737300000000"/>
+		<Metadata name="Subsystem.НСИ" id="f3e1c05b-7c69-49cc-b685-65732a06a1ea" configVersion="a7245c431d4550448ba396735cfa04bb00000000"/>
 		<Metadata name="Subsystem.Продажи" id="2cc798e3-8cd4-4967-ac96-fbd16b7a1803" configVersion="de0967b3c5566e4ba0b4deee04273c7700000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
